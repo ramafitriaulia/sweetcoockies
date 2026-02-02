@@ -1,0 +1,26 @@
+.banner{
+    height: 100vh;
+    background: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)),url("https://i.pinimg.com/736x/a7/70/3b/a7703bbbe6f3f30fcc266440b021fb6f.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.card img{
+    aspect-ratio: 3 / 4;
+}
+
+.icon-service{
+    width: 90px;
+    height: 90px;
+    border: solid #fff 2px;
+    border-radius: 50%;
+    color: #fff;
+}
+
+.serv {
+    background-color: #6B3E26;
+}
+
+.big {
+    font-size: 50px;
+}
